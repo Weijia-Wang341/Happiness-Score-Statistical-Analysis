@@ -9,3 +9,10 @@ Data Source: https://www.kaggle.com/unsdsn/world-happiness
 
 ## Link
 https://www.kaggle.com/kellywww/statistical-analysis-happiness-score-2019-r
+
+## Plots
+![000009](https://user-images.githubusercontent.com/73563140/108122101-ca257580-7071-11eb-9e61-02c9b7d07a2f.png)
+![000007](https://user-images.githubusercontent.com/73563140/108122118-d01b5680-7071-11eb-957f-ac4a9e7d4132.png)
+![000003](https://user-images.githubusercontent.com/73563140/108122129-d4477400-7071-11eb-8487-04d3cab19886.png)
+![000005](https://user-images.githubusercontent.com/73563140/108122139-d7426480-7071-11eb-96fe-ad074952d31a.png)
+![1](https://user-images.githubusercontent.com/73563140/108122152-d9a4be80-7071-11eb-9d26-77635b6c1649.png)
